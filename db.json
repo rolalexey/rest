@@ -1,67 +1,11 @@
-[
-   {
-      "Title":"Cloud",
-      "Subtitle":"Cloud Developer",
-      "Description":"Cloud feature articles",
-      "MainPage":"cloud",
-      "Items":[
-         {
-            "Title":"AMD's Bold ARM Server Gambit",
-            "Subtitle":"AMD's Bold ARM Server Gambit",
-            "Description":"By combining 64-bit ARM processors with server-side technology, the company that led the x86 architecture into the 64-bit world is hoping to reinvent the data center and give itself new life.",
-            "Content":"Content for AMD's Bold ARM Server Gambit...",
-            "MainPage":"cloud/amds-bold-arm-server-gambit/240012549",
-            "Id":"240012549"
-         },
-         {
-            "Title":"How Atlassian moved a code base of 21,000 files with more than 47,000 commits on its best-selling product from Subversion to Git without stopping the development workflow.",
-            "Subtitle":"Migrating from Subversion to Git and the Lessons Learned",
-            "Description":"It is incredible how the cloud growths",
-            "Content":"Content for Migrating from Subversion to Git and the Lessons Learned...",
-            "MainPage":"cloud/migrating-from-subversion-to-git-and-the/240009175",
-            "Id":"120020304050"
-         }
-      ],
-      "Id":"1"
-   },
-   {
-      "Title":"Mobile",
-      "Subtitle":"Mobile Developer",
-      "Description":"Mobile feature articles",
-      "MainPage":"mobile",
-      "Items":null,
-      "Id":"2"
-   },
-   {
-      "Title":"Parallel",
-      "Subtitle":"Parallel Programming",
-      "Description":"Parallel feature articles",
-      "MainPage":"parallel",
-      "Items":null,
-      "Id":"3"
-   },
-   {
-      "Title":".NET",
-      "Subtitle":"M-Dev",
-      "Description":"The world of Microsoft Developers",
-      "MainPage":"windows",
-      "Items":null,
-      "Id":"4"
-   },
-   {
-      "Title":"JVM Languages",
-      "Subtitle":"Powered by Java Virtual Machine",
-      "Description":"The world of JVM languages",
-      "MainPage":"jvm",
-      "Items":null,
-      "Id":"5"
-   },
-   {
-      "Title":"C/C++",
-      "Subtitle":"Powered by C/C++",
-      "Description":"The world of C/++ developers",
-      "MainPage":"cpp",
-      "Items":null,
-      "Id":"6"
-   }
-]
+{
+  "posts": [
+  {
+    "id": 1,
+    "title": "hello"
+  }
+  ],
+  "profile": {
+  "name": "typicode"
+  }
+}
